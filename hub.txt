@@ -1,0 +1,5 @@
+hub MyCellTracks
+shortLabel Cell Type BigWigs
+longLabel Track Hub for Comparing B Cells and Norn Cells
+genomesFile genomes.txt
+email shruju15@gmail.com

@@ -1,0 +1,17 @@
+track B_cells_MC
+shortLabel B_MC Cells
+longLabel B cells and MC cells BigWig Signal
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks/main/B_cells_MC_cells.bigWig
+color 0,100,200
+visibility full
+autoScale on
+
+track Norn_MC
+shortLabel Norn Cells
+longLabel Norn MC cells BigWig Signal
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks/main/Norn_MC_cells.bigWig
+color 200,0,0
+visibility full
+autoScale on
