@@ -2,7 +2,7 @@ track B_cells_MC
 shortLabel B_MC
 longLabel B cells MC cells BigWig Signal
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks-bjort-lab/main/B_cells_MC_cells.bigWig
+bigDataUrl https://genome.ucsc.edu/hubspace/27/Shrujana/1/B_cells_MC_cells.bigWig
 color 0,100,200
 visibility full
 autoScale on
@@ -11,7 +11,7 @@ track T_cells_MC
 shortLabel T_MC
 longLabel T cells MC cells BigWig Signal
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks-bjort-lab/main/T_cells_MC_cells.bigWig
+bigDataUrl https://genome.ucsc.edu/hubspace/27/Shrujana/1/T_cells_MC_cells.bigWig
 color 30,144,255
 visibility full
 autoScale on
@@ -20,7 +20,7 @@ track Neutrophil_MC
 shortLabel Neut_MC
 longLabel Neutrophil MC cells BigWig Signal
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks-bjort-lab/main/Neutrophil_MC_cells.bigWig
+bigDataUrl https://genome.ucsc.edu/hubspace/27/Shrujana/1/Neutrophil_MC_cells.bigWig
 color 70,130,180
 visibility full
 autoScale on
@@ -29,7 +29,7 @@ track Endothelial_MC
 shortLabel Endo_MC
 longLabel Endothelial MC cells BigWig Signal
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks-bjort-lab/main/Endothelial_MC_cells.bigWig
+bigDataUrl https://genome.ucsc.edu/hubspace/27/Shrujana/1/Endothelial_MC_cells.bigWig
 color 0,150,0
 visibility full
 autoScale on
@@ -38,7 +38,7 @@ track Fibroblasts_MC
 shortLabel Fibro_MC
 longLabel Fibroblasts MC cells BigWig Signal
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks-bjort-lab/main/Fibroblasts_MC_cells.bigWig
+bigDataUrl https://genome.ucsc.edu/hubspace/27/Shrujana/1/Fibroblasts_MC_cells.bigWig
 color 34,139,34
 visibility full
 autoScale on
@@ -47,7 +47,7 @@ track Pericytes_Renin_MC
 shortLabel Peri_Renin
 longLabel Pericytes Renin MC cells BigWig Signal
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks-bjort-lab/main/Pericytes_Renin_MC_cells.bigWig
+bigDataUrl https://genome.ucsc.edu/hubspace/27/Shrujana/1/Pericytes_Renin_MC_cells.bigWig
 color 46,139,87
 visibility full
 autoScale on
@@ -56,7 +56,7 @@ track Podocytes_MC
 shortLabel Podo_MC
 longLabel Podocytes MC cells BigWig Signal
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks-bjort-lab/main/Podocytes_MC_cells.bigWig
+bigDataUrl https://genome.ucsc.edu/hubspace/27/Shrujana/1/Podocytes_MC_cells.bigWig
 color 148,0,211
 visibility full
 autoScale on
@@ -65,7 +65,7 @@ track Kidney_func1_MC
 shortLabel Kid_func1
 longLabel Kidney func1 MC cells BigWig Signal
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks-bjort-lab/main/Kidney_func1_MC_cells.bigWig
+bigDataUrl https://genome.ucsc.edu/hubspace/27/Shrujana/1/Kidney_func1_MC_cells.bigWig
 color 128,0,128
 visibility full
 autoScale on
@@ -74,7 +74,7 @@ track Kidney_func2_MC
 shortLabel Kid_func2
 longLabel Kidney func2 MC cells BigWig Signal
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks-bjort-lab/main/Kidney_func2_MC_cells.bigWig
+bigDataUrl https://genome.ucsc.edu/hubspace/27/Shrujana/1/Kidney_func2_MC_cells.bigWig
 color 75,0,130
 visibility full
 autoScale on
@@ -83,7 +83,7 @@ track Norn_MC
 shortLabel Norn_MC
 longLabel Norn MC cells BigWig Signal
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/ShrujanaKandadai/ucsc-tracks-bjort-lab/main/Norn_MC_cells.bigWig
+bigDataUrl https://genome.ucsc.edu/hubspace/27/Shrujana/1/Norn_MC_cells.bigWig
 color 200,0,0
 visibility full
 autoScale on
